@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WSB_NET_Zadanie4_v2/1.0.0": {
+        "runtime": {
+          "WSB_NET_Zadanie4_v2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WSB_NET_Zadanie4_v2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
